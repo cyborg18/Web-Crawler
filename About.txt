@@ -1,0 +1,3 @@
+This is a simple web crawler.
+It uses php to crawl the given web address.
+Stores all the available links in the given website into an array and outputs the same.
